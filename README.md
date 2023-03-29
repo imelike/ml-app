@@ -1,13 +1,6 @@
-
 # mlapp
+streamlit project deployed with Heroku https://imelike-ml-app.herokuapp.com
 
-https://imelike-ml-app.herokuapp.com
-
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imelike-ml-app.herokuapp.com)
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
