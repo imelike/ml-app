@@ -12,14 +12,14 @@ Launch the web app:
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
-### Create conda environment
-Firstly, we will create a conda environment called *ml*
+### Create virtual environment
+Firstly, we will create a environment called *ml-app*
 ```
-conda create -n ml python=3.11.1
+python -m venv ml-app
 ```
-Secondly, we will login to the *ml* environement
+Secondly, we will login to the *ml-app* environment
 ```
-conda activate ml
+<venv>\Scripts\activate.bat
 ```
 ### Install prerequisite libraries
 
